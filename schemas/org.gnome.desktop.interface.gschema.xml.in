@@ -216,7 +216,7 @@
       </description>
     </key>
     <key name="clock-show-seconds" type="b">
-      <default>false</default>
+      <default>true</default>
       <summary>Whether the clock shows seconds</summary>
       <description>
 	If true, display seconds in the clock.
@@ -245,7 +245,7 @@
       </description>
     </key>
     <key name="show-battery-percentage" type="b">
-      <default>false</default>
+      <default>true</default>
       <summary>Show battery percentage</summary>
       <description>
         If true, display battery percentage in the status menu, in addition to the icon.
@@ -268,7 +268,7 @@
       </description>
     </key>
     <key name="locate-pointer" type="b">
-      <default>false</default>
+      <default>true</default>
       <summary>Highlights the current location of the pointer.</summary>
       <description>
         If true, pressing a key will highlight the current pointer location on screen.
