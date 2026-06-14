@@ -91,7 +91,7 @@
       </description>
     </key>
     <key name="gtk-theme" type="s">
-      <default>'Adwaita'</default>
+      <default>'adw-gtk3'</default>
       <summary>Gtk+ Theme</summary>
       <description>
         Basename of the default theme used by gtk+.
